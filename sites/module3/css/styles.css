@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+}
+
+.name {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.navbar a:hover{
+    text-decoration: underline;
+}
+
+.navbar > .container {
+    display: unset;
+}
+
+.items {
+    background-color: rgb(33, 37, 41);
+    margin-bottom: 50px;
+    color: white;
+}
+
+h3 {
+    padding: 10px;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.menu {
+    padding: 20px;
+    font-size: 2.5em;
+}
