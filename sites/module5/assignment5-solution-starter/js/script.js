@@ -63,6 +63,7 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
   // On page load (before images or CSS)
   document.addEventListener("DOMContentLoaded", function (event) {
 
+
     // TODO: STEP 0: Look over the code from
     // *** start ***
     // to
